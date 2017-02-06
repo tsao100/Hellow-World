@@ -1,4 +1,4 @@
-// HelloWorld.cpp : ©w¸q¥D±±¥xÀ³¥Îµ{¦¡ªº¶i¤JÂI¡C
+// HelloWorld.cpp : å®šç¾©ä¸»æ§å°æ‡‰ç”¨ç¨‹å¼çš„é€²å…¥é»ã€‚
 //
 
 #include "stdafx.h"
@@ -8,6 +8,7 @@ using namespace std;
 int main()
 {
 	cout << "Hello World!" << endl;
+	cout << "Coding on the cloud! << endl;
     return 0;
 }
 
