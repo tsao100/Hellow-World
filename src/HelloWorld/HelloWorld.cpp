@@ -9,7 +9,7 @@ int main()
 {
 	cout << "Hello World!" << endl;
 	cout << "Coding on the cloud!" << endl;
-	cout << "How to say!" << endl;
+	cout << "How to say it!" << endl;
 	return 0;
 }
 
