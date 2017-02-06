@@ -10,6 +10,7 @@ int main()
 	cout << "Hello World!" << endl;
 	cout << "Coding on the cloud!" << endl;
 	cout << "How to say it!" << endl;
+	cout << "Ha ha!" << endl;
 	return 0;
 }
 
